@@ -1,1 +1,2 @@
-# Build your say_hello method here
+name = gets
+def say_hello(name = "Ruby Programmer")
