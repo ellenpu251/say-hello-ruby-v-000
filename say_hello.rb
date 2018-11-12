@@ -1,4 +1,3 @@
-name = gets
 def say_hello(name = "Ruby Programmer")
-puts "Hello " + name + "\n"
+puts "Hello " + "#{name}"+ "!"
 end
